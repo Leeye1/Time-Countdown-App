@@ -17,10 +17,9 @@ Python 3.6 或更高版本：从 python.org 下载并安装。
 步骤
 
 克隆仓库：
-git clone https://github.com/your-username/CountdownApp.git
-cd CountdownApp
-
-将 your-username 替换为您的 GitHub 用户名。
+git clone https://github.com/your-username/CountdownApp.git](https://github.com/Leeye1/Time-Countdown-App.git
+)
+cd Python
 
 运行脚本：
 python3 countdown_app.py
@@ -45,7 +44,7 @@ cd Time-Countdown-App
 
 找到应用程序：
 
-CountdownApp.app 位于仓库的MAC App目录（或 dist/ 文件夹，视您的设置而定）。
+CountdownApp.app 位于仓库的MAC App目录。
 
 安装应用程序：
 
@@ -84,13 +83,11 @@ CountdownApp.app 位于仓库的MAC App目录（或 dist/ 文件夹，视您的�
 
 
 注意事项
-
-全屏倒计时窗口在测试期间可通过 Escape 键退出（可选功能）。
 在倒计时界面点击“关闭”后，应用程序会重置到初始界面，允许重新开始倒计时。
 
 ### 未来计划
 
-Android 应用程序：计划开发 Android 版本的 CountdownApp，使其可在移动设备上使用。
+Android 应用程序：可能计划开发 Android 版本的 CountdownApp，使其可在移动设备上使用。
 附加功能：未来可能添加可自定义的倒计时间隔、视觉主题和倒计时声音提醒。
 
 
