@@ -17,7 +17,7 @@ Python 3.6 或更高版本：从 python.org 下载并安装。
 步骤
 
 克隆仓库：
-git clone https://github.com/your-username/CountdownApp.git](https://github.com/Leeye1/Time-Countdown-App.git
+git clone https://github.com/Leeye1/Time-Countdown-App.git
 )
 cd Python
 
