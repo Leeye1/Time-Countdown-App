@@ -3,12 +3,12 @@
 CountdownApp 是一个基于 Python 的倒计时应用程序，提供定时提醒功能。它包含一个 90 分钟的倒计时周期，每隔 3-5 分钟触发一次 10 秒的==全屏倒计时==，并在 90 分钟后触发一个 20 分钟的全屏倒计时。目前支持 Python 脚本和 macOS 应用程序（Intel系列MacBook），未来计划开发 Windows 版本，有机会就开发Android app。（目前app十分简陋且不完善，且只适用于PC，Mac，其中PC需要手动执行Python脚本）
 ## 目录
 
-- 使用 Python 脚本
+- 使用 Python 脚本（所有PC通用）
 - 安装 Mac 应用程序
 - 应用程序界面与功能
 - 未来计划
 
-### 使用 Python 脚本
+### 使用 Python 脚本（所有PC通用）
 前提条件
 
 Python 3.6 或更高版本：从 python.org 下载并安装。
